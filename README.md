@@ -1,10 +1,10 @@
 ## ÇMF Bilgisayar Mühendisliği 2020 Yaz Staj Projeleri Dizini
 
-Bu sayfada 2020 Yaz döneminde Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümünde proje seçerek staj yapmıs olan öğrencilerden stajını başarılı buldugum ve staj kaynak kodlarınını Github'da paylaşan ve README dosyası içeren projelerin linkleri bulunmaktadır.
+Bu sayfada 2020 Yaz döneminde Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümünde proje seçerek staj yapmış olan öğrencilerden stajını başarılı bulduğum ve staj kaynak kodlarınını Github'da paylaşan ve README dosyası içeren projelerin linkleri bulunmaktadır.
 
 - [Covid-19 Contact Tracing Uygulaması](https://github.com/ertgrulll/CovidTakip)
 - [NKU Crawler Database](https://github.com/olucvolkan/nkucrawler)
-- [Üniversite Yemekahane Otomasyonu](https://github.com/hakan2259/university_refectory)
+- [Üniversite Yemekhane Otomasyonu](https://github.com/hakan2259/university_refectory)
 - [Türkiye Deprem API](https://github.com/berkekurnaz/Turkiye-Deprem-Api)
 - [Taş Kagıt Makas Uygulamasi](https://github.com/yagmurkahya/Rock-Paper-ScissorsUnityGame)
 - [Python'da Goruntu Isleme Uygulamalari](https://github.com/ugurilgin/Python-Goruntu-Isleme)
