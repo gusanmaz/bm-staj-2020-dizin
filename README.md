@@ -1,4 +1,4 @@
-## ÇMF Bilgisayar Mühendisliği Staj Projeleri Dizini
+## ÇMF Bilgisayar Mühendisliği 2020 Yaz Staj Projeleri Dizini
 
 Bu sayfada 2020 Yaz döneminde Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümünde proje seçerek staj yapmıs olan öğrencilerden stajını başarılı buldugum ve staj kaynak kodlarınını Github'da paylaşan ve README dosyası içeren projelerin linkleri bulunmaktadır.
 
