@@ -2,7 +2,7 @@
 
 Bu sayfada 2020 Yaz döneminde Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümünde proje seçerek staj yapmış olan öğrencilerden stajını başarılı bulduğum ve staj kaynak kodlarınını Github'da paylaşan ve README dosyası içeren projelerin linkleri bulunmaktadır.
 
-- [ÇMF Email Duyuru Sistemi](https://github.com/buraksenol/nku-duyuru-web-crawler-service)
+- [ÇMF Email Duyuru Sistemi](https://github.com/buraksenol/nku-duyuru-web-crawler-service) `URL guncellenecek`
 - [Covid-19 Contact Tracing Uygulaması](https://github.com/ertgrulll/CovidTakip)
 - [NKÜ Crawler Database](https://github.com/olucvolkan/nkucrawler)
 - [Üniversite Yemekhane Otomasyonu](https://github.com/hakan2259/university_refectory)
