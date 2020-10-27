@@ -11,7 +11,7 @@ Bu sayfada 2020 Yaz döneminde Namık Kemal Üniversitesi Bilgisayar Mühendisli
 - [Python'da Görüntü İşleme Uygulamaları](https://github.com/ugurilgin/Python-Goruntu-Isleme)
 - [Kitabını Oyla Uygulaması](https://github.com/byzkd/book-app)
 - [MaskRCNN](https://github.com/helinozgur/MaskRCNN)
-- [CMF Bulk Mailer](https://github.com/dracorlll/cmf-bulk-mailer)
+- [ÇMF Bulk Mailer](https://github.com/dracorlll/cmf-bulk-mailer)
 - [Social Distance Detection](https://github.com/muhammedakyuzlu/social-distance-detection)
 - [Evcil Hayvan Bakım Rehberi](https://github.com/Cortifax/EvcilHBR)
 - [Tekirdağ Namık Kemal Üniversitesi Boş Sınıf Bulucusu](https://github.com/turkoglu98/TNKUBSB)
